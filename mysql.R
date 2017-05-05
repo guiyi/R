@@ -1,3 +1,7 @@
+# Filename: mysql.R
+# DateTime: 2017.05.05
+# Author : Adair
+
 #install.packages("DBI")  #安装包
 #install.packages("RMySQL")
 #installed.packages() #已安装的包
